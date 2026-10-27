@@ -1,0 +1,5 @@
+Options -Indexes
+DirectoryIndex index.php
+<Files "conexao.php">
+    Require all denied
+</Files>
